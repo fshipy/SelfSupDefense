@@ -1,4 +1,4 @@
-name: new-pytorch
+name: self-sup-defense
 channels:
   - pytorch
   - anaconda
@@ -139,5 +139,5 @@ dependencies:
     - tifffile==2020.9.3
     - tqdm==4.51.0
     - urllib3==1.25.11
-prefix: /home/mcz/.conda/envs/new-pytorch
+prefix: /home/mcz/.conda/envs/self-sup-defense
 
